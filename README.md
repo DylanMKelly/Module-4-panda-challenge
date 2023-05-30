@@ -89,5 +89,11 @@ Used DataFrame to create list comparing school performance with school type
 
 # Resources
 The following are resources and links used to help with the creation of these scripts
+ -  Used provided sample solution "PyCitySchools_starter.ipynb" to build and organize results, copying format and variables to help develop solutions
+ -  Class recordings and posted answers to previous homework were used to help determine paths toward solutions 
+ -  Stack Overflow "Pandas how to use pd.cut()" : https://stackoverflow.com/questions/45751390/pandas-how-to-use-pd-cut
+ -  Real Python "pandas Sort: Your Guide to Sorting Data in Python" :https://realpython.com/pandas-sort-python/
 
-TA assistance Sunil and tutorer Simon with logic correction and formatting problems 
+# Additional Help 
+TA assistance Sunil helped with corrections and formatting to errors in my intial school_sumary 
+Asked Class chat for assistance with DataFrame and index error pertaining to brackets (multiple responses)
